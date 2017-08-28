@@ -1,0 +1,18 @@
+{
+  "name": "fb_post_capture",
+  "version": "1.0.0",
+  "description": "Automated script for taking screenshot (iPhone 6 viewport simulated) of a facebook post with all its comments",
+  "main": "fb.js",
+  "dependencies": {
+    "authenticator": "^1.1.2",
+    "jimp": "^0.2.28",
+    "minimist": "^1.2.0",
+    "puppeteer": "^0.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "foly <crazyfolyme@gmail.com>",
+  "license": "MIT"
+}
