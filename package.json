@@ -4,7 +4,7 @@
   "description": "Automated script for taking screenshot (iPhone 6 viewport simulated) of a facebook post with all its comments",
   "main": "fb.js",
   "dependencies": {
-    "authenticator": "^1.1.2",
+    "authenticator": "^1.1.5",
     "jimp": "^0.2.28",
     "minimist": "^1.2.0",
     "puppeteer": "^0.10.1"
