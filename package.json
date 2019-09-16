@@ -7,7 +7,7 @@
     "authenticator": "^1.1.5",
     "jimp": "^0.6.7",
     "minimist": "^1.2.0",
-    "puppeteer": "^1.19.0"
+    "puppeteer": "^1.20.0"
   },
   "devDependencies": {},
   "scripts": {
