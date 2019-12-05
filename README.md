@@ -30,7 +30,7 @@ CLI Arguments:
 Taking screenshot of a New York Times's [post](https://m.facebook.com/story.php?story_fbid=10151276647049999&id=5281959998) and save it to a single file in `jpeg` format, `70%` quality and hide the identity of all involved users:
 
 ```bash
-$ ./fb.js --fbuser "user@email.com" --fbpass "secret" --fb2fakey "AAAA BBBB CCCC DDDD" --url "https://m.facebook.com/story.php?story_fbid=10151276647049999&id=5281959998" --anonymous --format jpeg --quality 70 --stitch
+$ ./fb.js --fbuser "user@email.com" --fbpassword "secret" --fb2fakey "AAAA BBBB CCCC DDDD" --url "https://m.facebook.com/story.php?story_fbid=10151276647049999&id=5281959998" --anonymous --format jpeg --quality 70 --stitch
 ```
 
 Result:
